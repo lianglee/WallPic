@@ -1,2 +1,2 @@
 # WallPic
-A component that will allow you to upload multiple images in your album
+A component which is used to re-position images in wall post , from text - image to image text.
